@@ -1,0 +1,11 @@
+source-iata,city,state,lat,lon,url
+FLL,Fort Lauderdale,FL,26.0726,-80.1527,"https://www.google.com/maps/search/?api=1&query=26.0726,-80.1527"
+JFK,New York (JFK),NY,40.6413,-73.7781,"https://www.google.com/maps/search/?api=1&query=40.6413,-73.7781"
+DEN,Denver,CO,39.8561,-104.6737,"https://www.google.com/maps/search/?api=1&query=39.8561,-104.6737"
+PHL,Philadelphia,PH,39.8744,-75.2424,"https://www.google.com/maps/search/?api=1&query=39.8744,-75.2424"
+LAX,Los Angeles,LA,33.9416,-118.4085,"https://www.google.com/maps/search/?api=1&query=33.9416,-118.4085"
+FRA,Frankfurt,DE,50.0379,8.5622,"https://www.google.com/maps/search/?api=1&query=50.0379,8.5622"
+HAM,Hamburg,DE,53.6304,9.9882,"https://www.google.com/maps/search/?api=1&query=53.6304,9.9882"
+BER,Berlin (BER),DE,52.3667,13.5033,"https://www.google.com/maps/search/?api=1&query=52.3667,13.5033"
+HKG,Hong Kong,,22.308,113.9185,"https://www.google.com/maps/search/?api=1&query=22.3080,113.9185"
+SIN,Singapore,,1.3644,103.9915,"https://www.google.com/maps/search/?api=1&query=1.3644,103.9915"
